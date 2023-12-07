@@ -1,7 +1,3 @@
-Certainly! Let's make the repository description more welcoming for QA users:
-
----
-
 # AutoSauceWeb - Web Automation Project for Quality Assurance
 
 **Welcome to AutoSauceWeb! 🚀**
